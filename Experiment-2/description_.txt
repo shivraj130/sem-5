@@ -1,0 +1,20 @@
+In this Experiment I created a Bank deposit and Withdraw UI by using HTML and Basic CSS.
+
+HTML :
+
+To make this I use the different Tags of HTML like div , button .
+In order to apply diffrent css to different Div a class attribute is intialised inside that Tag
+
+Basic Structure:(Experiment-2)
+
+An outer_div which hold all the content inside it  An inner_div which holds the content like deposit and withdraw buttons also withdraw amount.
+
+By this HTML skeleton is Ready now we have to apply CSS to it.
+
+Learning Outcomes :
+
+1) How to add class attribute to a tag and what the use of it.
+2) Use of flex display to make the content aligned i.e row and col according to the need.
+3) How to apply css to the classes.
+4) Understand the box model concept.
+5) How to make a Responsive UI by usign @margin .
