@@ -1,0 +1,9 @@
+In this Experiment I created a student Registration form By using HTML5
+It Student form include fields like Name , Email id , Age and Sumbit and Reset buttons
+Learning Outcomes:
+
+1. I Understand the Basic Structure of the HTML code.
+2. How to use INPUT tags and what TYPE of input can be taken from the user.
+3. I came to know about the different use of the Validation on the Input Types.
+4. Showcase the use of Different Validation on the Fields
+5. effectively using attributes like placeholder and title, improving accessibility and usability
